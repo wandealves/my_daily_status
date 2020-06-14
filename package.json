@@ -1,0 +1,29 @@
+{
+  "name": "my_daily_status",
+  "version": "1.0.0",
+  "description": "Controle de doença desenvolvido com Node",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandealves/my_daily_status.git"
+  },
+  "author": "Wanderson Alves Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wandealves/my_daily_status/issues"
+  },
+  "homepage": "https://github.com/wandealves/my_daily_status#readme",
+  "dependencies": {
+    "next": "^9.4.4",
+    "postcss-import": "^12.0.1",
+    "postcss-preset-env": "^6.7.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "tailwindcss": "^1.4.6"
+  }
+}

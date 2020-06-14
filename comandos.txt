@@ -1,0 +1,8 @@
+1) Instalar Next e React
+
+npm i next react react-dom
+
+2) Estlilização
+
+npm i postcss-import postcss-preset-env tailwindcss
+
