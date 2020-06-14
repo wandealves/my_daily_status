@@ -6,3 +6,7 @@ npm i next react react-dom
 
 npm i postcss-import postcss-preset-env tailwindcss
 
+3) Inicializar tailwindcss
+
+npx tailwind init
+
