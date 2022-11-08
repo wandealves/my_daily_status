@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/wandealves/my_daily_status#readme",
   "dependencies": {
-    "next": "^9.4.4",
+    "next": "^13.0.2",
     "postcss-import": "^12.0.1",
     "postcss-preset-env": "^6.7.0",
     "react": "^16.13.1",
